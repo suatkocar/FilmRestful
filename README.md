@@ -1,4 +1,4 @@
-### FilmRestful (RESTful Web Application)
+### FilmRestful (RESTful API)
 
 #### JSON Format
 
