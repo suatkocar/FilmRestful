@@ -116,6 +116,7 @@ FilmRestful
 │   │   │       ├── XmlConverter.java
 │   │   │       └── YamlConverter.java
 │   │   └── resources
+│   │       ├── config.properties
 │   │       ├── config.properties.example
 │   │       └── createfilms.sql
 │   └── webapp
@@ -123,13 +124,8 @@ FilmRestful
 │       │   └── MANIFEST.MF
 │       ├── WEB-INF
 │       │   ├── lib
-│       │   ├── views
-│       │   ├── web.xml
-│       ├── audio
-│       ├── css
-│       ├── images
-│       ├── js
-│       └── json
+│       │   └── web.xml
+│       └── redirect.jsp
 └── README.md
 ```
 
