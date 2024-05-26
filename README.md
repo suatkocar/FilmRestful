@@ -29,6 +29,7 @@ FilmRestful is a RESTful web application developed using Java Servlets to manage
 - **Database:** MySQL
 - **Libraries:** Gson for JSON conversion, Jakarta XML Bind for XML conversion
 - **Build Tool:** Apache Maven
+- **IDE:** Eclipse
 
 ### Getting Started
 
