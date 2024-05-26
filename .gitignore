@@ -1,0 +1,12 @@
+.DS_Store
+
+# Eclipse-specific files
+/.classpath
+/.project
+/.settings/
+
+/target/
+/build/
+
+/src/main/resources/config.properties
+
